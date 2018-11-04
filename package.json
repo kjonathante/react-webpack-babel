@@ -1,0 +1,32 @@
+{
+  "name": "react-webpack-babel-tutorial",
+  "version": "1.0.0",
+  "description": "This is a Tutorial to showcase the usage of React with Webpack and Babel",
+  "main": "index.js",
+  "scripts": {
+    "webpack": "webpack",
+    "start": "webpack-dev-server --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjonathante/react-webpack-babel.git"
+  },
+  "keywords": [
+    "react",
+    "webpack",
+    "babel"
+  ],
+  "author": "Kit Jonathan Te",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kjonathante/react-webpack-babel/issues"
+  },
+  "homepage": "https://github.com/kjonathante/react-webpack-babel#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "3.2.0",
+    "path": "0.12.7",
+    "webpack": "4.24.0",
+    "webpack-cli": "3.1.2",
+    "webpack-dev-server": "3.1.10"
+  }
+}
